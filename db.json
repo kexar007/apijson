@@ -1,44 +1,7 @@
 {
-  "search_metadata": {
-    "id": "63f7ce6a1e803f23040c25c6",
-    "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/3a8d542eff5508cc/63f7ce6a1e803f23040c25c6.json",
-    "created_at": "2023-02-23 20:36:58 UTC",
-    "processed_at": "2023-02-23 20:36:58 UTC",
-    "google_scholar_author_url": "https://scholar.google.com/citations?user=_EsgCugAAAAJ&hl=en&sortby=pubdate",
-    "raw_html_file": "https://serpapi.com/searches/3a8d542eff5508cc/63f7ce6a1e803f23040c25c6.html",
-    "total_time_taken": 0.97
-  },
+  
  
-  "author": {
-    "name": "Jayanarayanan Kuttippurath",
-    "affiliations": "Indian Institute of Technology Kharagpur",
-    "email": "Verified email at coral.iitkgp.ac.in",
-    "website": "https://www.atmoslabiitkgp.com/",
-    "interests": [
-      {
-        "title": "Atmospheric Chemistry",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:atmospheric_chemistry",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aatmospheric_chemistry"
-      },
-      {
-        "title": "Climate Change",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:climate_change",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclimate_change"
-      },
-      {
-        "title": "Stratospheric Ozone",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:stratospheric_ozone",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astratospheric_ozone"
-      },
-      {
-        "title": "Antarctic Ozone Hole",
-        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:antarctic_ozone_hole",
-        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aantarctic_ozone_hole"
-      }
-    ],
-    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_EsgCugAAAAJ&citpid=5"
-  },
+  
   "articles": [
     {
       "title": "Trends and variability of Total Column Ozone in the Third Pole",
@@ -64,83 +27,9 @@
       },
       "year": "2023"
     },
-    {
-      "title": "Spatio-temporal changes of winter and spring phytoplankton blooms in Arabian sea during the period 1997–2020",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:pbQCAAeKvsAC",
-      "citation_id": "_EsgCugAAAAJ:pbQCAAeKvsAC",
-      "authors": "P Anjaneyan, J Kuttippurath, PVH Kumar, SM Ali, M Raman",
-      "publication": "Journal of Environmental Management 332, https://doi.org/10.1016/j.jenvman …, 2023",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2023"
-    },
-    {
-      "title": "Improved air quality leads to enhanced vegetation growth during the COVID–19 lockdown in India",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:MSzX15-gZgkC",
-      "citation_id": "_EsgCugAAAAJ:MSzX15-gZgkC",
-      "authors": "R Kashyap, J Kuttippurath, VK Patel",
-      "publication": "Applied Geography 151, https://doi.org/10.1016/j.apgeog.2022.10, 2022",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2022"
-    },
-    {
-      "title": "Improvement in estimation of phytoplankton size class in Arabian Sea using remote sensing measurements",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:O0MA3yP7Y3UC",
-      "citation_id": "_EsgCugAAAAJ:O0MA3yP7Y3UC",
-      "authors": "S Moosa Ali, A Krishna, J Kuttippurath, A Gupta, A Tirkey, M Raman, ...",
-      "publication": "IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2022 …, 2022",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2022"
-    },
-    {
-      "title": "Restoration of Contaminated Agricultural Soils Using Modified Biochar",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:Sf6vrWCRp3YC",
-      "citation_id": "_EsgCugAAAAJ:Sf6vrWCRp3YC",
-      "authors": "M Mukesh Sharma, K Abhishek, PP Das, A Chakraborty, J Kuttippurath, ...",
-      "publication": "Designer Biochar Assisted Bioremediation of Industrial Effluents 1, 324, 2022",
-      "cited_by": {
-        "value": null,
-        "link": "https://scholar.google.com"
-      },
-      "year": "2022"
-    },
-    {
-      "title": "Air quality trends in rural India: analysis of NO2 pollution using satellite measurements",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:ef2wPL15CskC",
-      "citation_id": "_EsgCugAAAAJ:ef2wPL15CskC",
-      "authors": "M Pathak, J Kuttippurath",
-      "publication": "Environmental Science: Processes & Impacts, doi:10.1039/D2EM00293K, 2022",
-      "cited_by": {
-        "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14517323303767756072",
-        "serpapi_link": "https://serpapi.com/search.json?cites=14517323303767756072&engine=google_scholar&hl=en",
-        "cites_id": "14517323303767756072"
-      },
-      "year": "2022"
-    },
+  
     
-    {
-      "title": "Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:CKf5m1HYVjMC",
-      "citation_id": "_EsgCugAAAAJ:CKf5m1HYVjMC",
-      "authors": "P Kumar, J Kuttippurath, A Mitra",
-      "publication": "Environmental Science: Processes & Impacts, doi:10.1039/D1EM00383F, 2022",
-      "cited_by": {
-        "value": 1,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12814598116307917005",
-        "serpapi_link": "https://serpapi.com/search.json?cites=12814598116307917005&engine=google_scholar&hl=en",
-        "cites_id": "12814598116307917005"
-      },
-      "year": "2022"
-    }
+   
   ],
  
   "serpapi_pagination": {
