@@ -1,0 +1,603 @@
+{
+  "search_metadata": {
+    "id": "63f7ce6a1e803f23040c25c6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3a8d542eff5508cc/63f7ce6a1e803f23040c25c6.json",
+    "created_at": "2023-02-23 20:36:58 UTC",
+    "processed_at": "2023-02-23 20:36:58 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=_EsgCugAAAAJ&hl=en&sortby=pubdate",
+    "raw_html_file": "https://serpapi.com/searches/3a8d542eff5508cc/63f7ce6a1e803f23040c25c6.html",
+    "total_time_taken": 0.97
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "_EsgCugAAAAJ",
+    "hl": "en",
+    "sort": "pubdate"
+  },
+  "author": {
+    "name": "Jayanarayanan Kuttippurath",
+    "affiliations": "Indian Institute of Technology Kharagpur",
+    "email": "Verified email at coral.iitkgp.ac.in",
+    "website": "https://www.atmoslabiitkgp.com/",
+    "interests": [
+      {
+        "title": "Atmospheric Chemistry",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:atmospheric_chemistry",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aatmospheric_chemistry"
+      },
+      {
+        "title": "Climate Change",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:climate_change",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aclimate_change"
+      },
+      {
+        "title": "Stratospheric Ozone",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:stratospheric_ozone",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Astratospheric_ozone"
+      },
+      {
+        "title": "Antarctic Ozone Hole",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:antarctic_ozone_hole",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aantarctic_ozone_hole"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=_EsgCugAAAAJ&citpid=5"
+  },
+  "articles": [
+    {
+      "title": "Trends and variability of Total Column Ozone in the Third Pole",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:K-tzbvM8PMoC",
+      "citation_id": "_EsgCugAAAAJ:K-tzbvM8PMoC",
+      "authors": "J Kuttippurath, BR Sharma, GS Gopikrishnan",
+      "publication": "Frontiers in Climate, doi:10.3389/fclim.2023.1129660, 2023",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Long-term changes in precipitable water vapour over India derived from satellite and reanalyses data for the past four decades (1980–2020)",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:Wqn_fehR_TUC",
+      "citation_id": "_EsgCugAAAAJ:Wqn_fehR_TUC",
+      "authors": "S Sarkar, J Kuttippurath, V Patel",
+      "publication": "Environmental Science: Atmospheres, DOI:10.1039/D2EA00139J, 2023",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Spatio-temporal changes of winter and spring phytoplankton blooms in Arabian sea during the period 1997–2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:pbQCAAeKvsAC",
+      "citation_id": "_EsgCugAAAAJ:pbQCAAeKvsAC",
+      "authors": "P Anjaneyan, J Kuttippurath, PVH Kumar, SM Ali, M Raman",
+      "publication": "Journal of Environmental Management 332, https://doi.org/10.1016/j.jenvman …, 2023",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Improved air quality leads to enhanced vegetation growth during the COVID–19 lockdown in India",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:MSzX15-gZgkC",
+      "citation_id": "_EsgCugAAAAJ:MSzX15-gZgkC",
+      "authors": "R Kashyap, J Kuttippurath, VK Patel",
+      "publication": "Applied Geography 151, https://doi.org/10.1016/j.apgeog.2022.10, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Improvement in estimation of phytoplankton size class in Arabian Sea using remote sensing measurements",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:O0MA3yP7Y3UC",
+      "citation_id": "_EsgCugAAAAJ:O0MA3yP7Y3UC",
+      "authors": "S Moosa Ali, A Krishna, J Kuttippurath, A Gupta, A Tirkey, M Raman, ...",
+      "publication": "IEEE Transactions on Geoscience and Remote Sensing, doi:10.1109/TGRS.2022 …, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Restoration of Contaminated Agricultural Soils Using Modified Biochar",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:Sf6vrWCRp3YC",
+      "citation_id": "_EsgCugAAAAJ:Sf6vrWCRp3YC",
+      "authors": "M Mukesh Sharma, K Abhishek, PP Das, A Chakraborty, J Kuttippurath, ...",
+      "publication": "Designer Biochar Assisted Bioremediation of Industrial Effluents 1, 324, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Air quality trends in rural India: analysis of NO2 pollution using satellite measurements",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:ef2wPL15CskC",
+      "citation_id": "_EsgCugAAAAJ:ef2wPL15CskC",
+      "authors": "M Pathak, J Kuttippurath",
+      "publication": "Environmental Science: Processes & Impacts, doi:10.1039/D2EM00293K, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14517323303767756072",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14517323303767756072&engine=google_scholar&hl=en",
+        "cites_id": "14517323303767756072"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A seasonal OH minimum region over the Indian Ocean?",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:G887dSk7Sz8C",
+      "citation_id": "_EsgCugAAAAJ:G887dSk7Sz8C",
+      "authors": "J Kuttippurath, D Ardra, S Raj, W Feng",
+      "publication": "Atmospheric Environment, https://doi.org/10.1016/j.atmosenv.2022, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "The increasing atmospheric CO2 over India: Comparison to global trends",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:rp474-M6Y4oC",
+      "citation_id": "_EsgCugAAAAJ:rp474-M6Y4oC",
+      "authors": "J Kuttippurath, R Peter, A Singh, S Raj",
+      "publication": "iScience 25, https://doi.org/10.1016/j.isci.2022.1048, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14331066647633884655",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14331066647633884655&engine=google_scholar&hl=en",
+        "cites_id": "14331066647633884655"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Nutrient management may reduce global warming potential of rice cultivation in subtropical India",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:JaLtl8ASYokC",
+      "citation_id": "_EsgCugAAAAJ:JaLtl8ASYokC",
+      "authors": "K Abbhishek, DK Swain, A Singh, S Dey, J Kuttippurath, G Chander, ...",
+      "publication": "Current Research in Environmental Sustainability 4, doi:10.1016/j.crsust …, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16621684131158461569",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16621684131158461569&engine=google_scholar&hl=en",
+        "cites_id": "16621684131158461569"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Improvements in SO2 pollution in India: role of technology and environmental regulations",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:OlbiQ0ttILcC",
+      "citation_id": "_EsgCugAAAAJ:OlbiQ0ttILcC",
+      "authors": "J Kuttippurath, VK Patel, M Pathak, A Singh",
+      "publication": "Environmental Science and Pollution Research, doi:10.1007/s11356-022-21319-2, 2022",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9390620877101321040",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9390620877101321040&engine=google_scholar&hl=en",
+        "cites_id": "9390620877101321040"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Significant increase in water vapour over India and Indian Ocean : Implications for tropospheric warming and regional climate forcing",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:h-xndbdg2koC",
+      "citation_id": "_EsgCugAAAAJ:h-xndbdg2koC",
+      "authors": "VK Patel, J Kuttippurath",
+      "publication": "Science of Total Environment, https://doi.org/10.1016/j.scitotenv.2022, 2022",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2863566718742362922",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2863566718742362922&engine=google_scholar&hl=en",
+        "cites_id": "2863566718742362922"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Observed tropical cyclone-driven cold wakes in the context of rapid warming of the Arabian Sea",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:qkm5LKljiV4C",
+      "citation_id": "_EsgCugAAAAJ:qkm5LKljiV4C",
+      "authors": "RS Akhila, J Kuttippurath, B Balan Sarojini, A Chakraborty, R Rahul",
+      "publication": "Journal of Operational Oceanography, https://doi.org/10.1080/1755876X.2022.20, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3831027974456540021",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3831027974456540021&engine=google_scholar&hl=en",
+        "cites_id": "3831027974456540021"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Air Quality during the COVID – 19 Lockdown and Unlock Periods in India analysed using Satellite and Ground-based Measurements",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:-c_eYhz9dBkC",
+      "citation_id": "_EsgCugAAAAJ:-c_eYhz9dBkC",
+      "authors": "GS Gopikrishnan, J Kuttippurath, S Raj, A Singh, K Abbhishek",
+      "publication": "Environmental Processes, doi:10.1007/s40710-022-00585-9, 2022",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8772464820729709146",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8772464820729709146&engine=google_scholar&hl=en",
+        "cites_id": "8772464820729709146"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "The sudden stratospheric warming and chemical ozone loss in the Antarctic winter 2019: comparison with the winters of 1988 and 2002",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:jPVjDSAV6m0C",
+      "citation_id": "_EsgCugAAAAJ:jPVjDSAV6m0C",
+      "authors": "R Roy, J Kuttippurath, F Lefèvre, S Raj, P Kumar",
+      "publication": "Theoretical and Applied Climatology, https://doi.org/10.1007/s00704-022-04031, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15478720802441951147",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15478720802441951147&engine=google_scholar&hl=en",
+        "cites_id": "15478720802441951147"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Photosynthetic trends in India derived from remote sensing measurements during 2000–2019: vegetation dynamics and key climatic drivers",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:bxPAEoiBajcC",
+      "citation_id": "_EsgCugAAAAJ:bxPAEoiBajcC",
+      "authors": "R Kashyap, AC Pandey, J Kuttippurath",
+      "publication": "Geocarto International, doi: 10.1080/10106049.2022.2060325, 2022",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=349069775775608603",
+        "serpapi_link": "https://serpapi.com/search.json?cites=349069775775608603&engine=google_scholar&hl=en",
+        "cites_id": "349069775775608603"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Genesis and Simultaneous Occurrences of the Super Cyclone Kyarr and Extremely Severe Cyclone Maha in the Arabian Sea in October 2019",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:ZpgFv6i7Z4gC",
+      "citation_id": "_EsgCugAAAAJ:ZpgFv6i7Z4gC",
+      "authors": "RS Akhila, J Kuttippurath, R Rahul, A Chakraborty",
+      "publication": "Natural Hazards, doi: 10.1007/s11069-022-05340-9, 2022",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Decadal variations in CO2 during agricultural seasons in India and role of management as sustainable approach",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:tL5YfqkXb3gC",
+      "citation_id": "_EsgCugAAAAJ:tL5YfqkXb3gC",
+      "authors": "A Singh, K Abbhihek, J Kuttippurath, S Raj, N Mallick, G Chander, S Dixit:",
+      "publication": "Environmental Technology & Innovation, https://doi.org/10.1016/j.eti.2022.10249, 2022",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3882869103000219051",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3882869103000219051&engine=google_scholar&hl=en",
+        "cites_id": "3882869103000219051"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Investigation of long-term trends and major sources of atmospheric HCHO over India",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:0urtJCGzaFQC",
+      "citation_id": "_EsgCugAAAAJ:0urtJCGzaFQC",
+      "authors": "J Kuttippurath, K Abbhishek, GS Gopikrishnan, M Pathak",
+      "publication": "Environmental Challenges, 10.1016/j.envc.2022.100477, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9575937739676119609",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9575937739676119609&engine=google_scholar&hl=en",
+        "cites_id": "9575937739676119609"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "Causal discovery of drivers of surface ozone variability in Antarctica using a deep learning algorithm",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_EsgCugAAAAJ&sortby=pubdate&citation_for_view=_EsgCugAAAAJ:CKf5m1HYVjMC",
+      "citation_id": "_EsgCugAAAAJ:CKf5m1HYVjMC",
+      "authors": "P Kumar, J Kuttippurath, A Mitra",
+      "publication": "Environmental Science: Processes & Impacts, doi:10.1039/D1EM00383F, 2022",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12814598116307917005",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12814598116307917005&engine=google_scholar&hl=en",
+        "cites_id": "12814598116307917005"
+      },
+      "year": "2022"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 2026,
+          "since_2018": 1066
+        }
+      },
+      {
+        "h_index": {
+          "all": 26,
+          "since_2018": 19
+        }
+      },
+      {
+        "i10_index": {
+          "all": 49,
+          "since_2018": 37
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2005,
+        "citations": 12
+      },
+      {
+        "year": 2006,
+        "citations": 21
+      },
+      {
+        "year": 2007,
+        "citations": 37
+      },
+      {
+        "year": 2008,
+        "citations": 76
+      },
+      {
+        "year": 2009,
+        "citations": 79
+      },
+      {
+        "year": 2010,
+        "citations": 73
+      },
+      {
+        "year": 2011,
+        "citations": 70
+      },
+      {
+        "year": 2012,
+        "citations": 75
+      },
+      {
+        "year": 2013,
+        "citations": 103
+      },
+      {
+        "year": 2014,
+        "citations": 100
+      },
+      {
+        "year": 2015,
+        "citations": 98
+      },
+      {
+        "year": 2016,
+        "citations": 120
+      },
+      {
+        "year": 2017,
+        "citations": 74
+      },
+      {
+        "year": 2018,
+        "citations": 134
+      },
+      {
+        "year": 2019,
+        "citations": 142
+      },
+      {
+        "year": 2020,
+        "citations": 145
+      },
+      {
+        "year": 2021,
+        "citations": 234
+      },
+      {
+        "year": 2022,
+        "citations": 340
+      },
+      {
+        "year": 2023,
+        "citations": 70
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=_EsgCugAAAAJ",
+    "available": 17,
+    "not_available": 3
+  },
+  "co_authors": [
+    {
+      "name": "Sophie Godin-Beekmann",
+      "link": "https://scholar.google.com/citations?user=3LYMtZcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=3LYMtZcAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "3LYMtZcAAAAJ",
+      "affiliations": "CNRS LATMOS",
+      "email": "Verified email at latmos.ipsl.fr",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Hamza Varikoden",
+      "link": "https://scholar.google.com/citations?user=MAiaQNcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=MAiaQNcAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "MAiaQNcAAAAJ",
+      "affiliations": "Indian Institute of Tropical Meteorology",
+      "email": "Verified email at tropmet.res.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MAiaQNcAAAAJ&citpid=3"
+    },
+    {
+      "name": "Wuhu Feng",
+      "link": "https://scholar.google.com/citations?user=ubgiwiYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ubgiwiYAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "ubgiwiYAAAAJ",
+      "affiliations": "University of Leeds",
+      "email": "Verified email at ncas.ac.uk",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "John Burrows OR John P Burrows OR...",
+      "link": "https://scholar.google.com/citations?user=FyNyRKcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=FyNyRKcAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "FyNyRKcAAAAJ",
+      "affiliations": "Bremen OR Oxford OR OXFORDSHIRE OR Harwell OR AERE OR UKAEA Mainz OR MPI OR Cambridge OR Aberdeen OR",
+      "email": "Verified email at iup.physik.uni-bremen.de",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Anandh T S",
+      "link": "https://scholar.google.com/citations?user=-1i_oBwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=-1i_oBwAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "-1i_oBwAAAAJ",
+      "affiliations": "Project Scientist C, IITM, Pune",
+      "email": "Verified email at tropmet.res.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=-1i_oBwAAAAJ&citpid=1"
+    },
+    {
+      "name": "Francis P A",
+      "link": "https://scholar.google.com/citations?user=MCp6ICYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=MCp6ICYAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "MCp6ICYAAAAJ",
+      "affiliations": "Centre for Excellence in Marine Studies, University of Mumbai",
+      "email": "Verified email at incois.gov.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=MCp6ICYAAAAJ&citpid=10"
+    },
+    {
+      "name": "C A Babu",
+      "link": "https://scholar.google.com/citations?user=fLrGY7AAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=fLrGY7AAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "fLrGY7AAAAAJ",
+      "affiliations": "Cochin University of Science and Technology",
+      "email": "Verified email at cusat.ac.in",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=fLrGY7AAAAAJ&citpid=2"
+    },
+    {
+      "name": "Martyn Chipperfield",
+      "link": "https://scholar.google.com/citations?user=W4v3kG4AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=W4v3kG4AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "W4v3kG4AAAAJ",
+      "affiliations": "Professor of Atmospheric Chemistry, University of Leeds",
+      "email": "Verified email at env.leeds.ac.uk",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=W4v3kG4AAAAJ&citpid=1"
+    },
+    {
+      "name": "Alain Hauchecorne",
+      "link": "https://scholar.google.com/citations?user=3csFOmIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=3csFOmIAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "3csFOmIAAAAJ",
+      "affiliations": "CNRS",
+      "email": "Verified email at latmos.ipsl.fr",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=3csFOmIAAAAJ&citpid=2"
+    },
+    {
+      "name": "Michelle Santee",
+      "link": "https://scholar.google.com/citations?user=QK6B750AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=QK6B750AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "QK6B750AAAAJ",
+      "affiliations": "Jet Propulsion Laboratory, Caltech",
+      "email": "Verified email at jpl.nasa.gov",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Jayashree Revadekar",
+      "link": "https://scholar.google.com/citations?user=kYFy8-oAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=kYFy8-oAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "kYFy8-oAAAAJ",
+      "affiliations": "Scientist, Indian Institute of tropical Meteorology",
+      "email": "Verified email at tropmet.res.in",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Christian von Savigny",
+      "link": "https://scholar.google.com/citations?user=PdHJfrkAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=PdHJfrkAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "PdHJfrkAAAAJ",
+      "affiliations": "Institute of Physics, University of Greifswald",
+      "email": "Verified email at physik.uni-greifswald.de",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Sumit Dandapat",
+      "link": "https://scholar.google.com/citations?user=rKYLYqAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=rKYLYqAAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "rKYLYqAAAAAJ",
+      "affiliations": "Post-doctoral Research Fellow, KAUST",
+      "email": "Verified email at kaust.edu.sa",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rKYLYqAAAAAJ&citpid=1"
+    },
+    {
+      "name": "Gunnar Schade",
+      "link": "https://scholar.google.com/citations?user=qL3H2OwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=qL3H2OwAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "qL3H2OwAAAAJ",
+      "affiliations": "Texas A&M University",
+      "email": "Verified email at tamu.edu",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Richard Querel",
+      "link": "https://scholar.google.com/citations?user=mFKOhrsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=mFKOhrsAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "mFKOhrsAAAAJ",
+      "affiliations": "Atmospheric Scientist, NIWA",
+      "email": "Verified email at niwa.co.nz",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Ross Salawitch",
+      "link": "https://scholar.google.com/citations?user=rZ-Z5FkAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=rZ-Z5FkAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "rZ-Z5FkAAAAJ",
+      "affiliations": "AOSC, CHEM, & ESSIC of University of Maryland, College Park",
+      "email": "Verified email at atmos.umd.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rZ-Z5FkAAAAJ&citpid=2"
+    },
+    {
+      "name": "Florence Rabier",
+      "link": "https://scholar.google.com/citations?user=sPIIXV8AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=sPIIXV8AAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "sPIIXV8AAAAJ",
+      "affiliations": "ECMWF",
+      "email": "Verified email at ecmwf.int",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Patrick C. Campbell, Ph.D., CCM",
+      "link": "https://scholar.google.com/citations?user=nn9yINYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=nn9yINYAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "nn9yINYAAAAJ",
+      "affiliations": "Department of Atmospheric and Oceanic Science/Cooperative Institute for Climate and Satellites",
+      "email": "Verified email at noaa.gov",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=nn9yINYAAAAJ&citpid=1"
+    },
+    {
+      "name": "Jean-Noel Thepaut",
+      "link": "https://scholar.google.com/citations?user=pAo5vPUAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=pAo5vPUAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "pAo5vPUAAAAJ",
+      "affiliations": "Director of Copernicus Services, ECMWF, Reading, UK",
+      "email": "Verified email at ecmwf.int",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=pAo5vPUAAAAJ&citpid=2"
+    },
+    {
+      "name": "Mahesh Kovilakam",
+      "link": "https://scholar.google.com/citations?user=ERgUwvsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=ERgUwvsAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate",
+      "author_id": "ERgUwvsAAAAJ",
+      "affiliations": "Senior Research Scientist, SSAI (NASA Langley Research Center)",
+      "email": "Verified email at nasa.gov",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?author_id=_EsgCugAAAAJ&engine=google_scholar_author&hl=en&sort=pubdate&start=20"
+  }
+}
